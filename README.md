@@ -4,5 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-williamcpereira89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamcpereira89@gmail.com)](mailto:williamcpereira89@gmail.com)
 
 
--  ⚡ React, Redux, Sagas, Hooks, StyledComponents, Node, Adonis, Express, TypeScript
+⚡ React, Redux, Sagas, Hooks, StyledComponents, Node, Adonis, Express, TypeScript
 
